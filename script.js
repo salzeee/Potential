@@ -1,3 +1,5 @@
+AOS.init();
+
 $('.owl-carousel').owlCarousel({
     loop: true,
     margin: 15,
