@@ -3,8 +3,8 @@ AOS.init();
 $('.owl-carousel').owlCarousel({
     loop: true,
     margin: 15,
-    // autoplay: true,
-    autoplayTimeout: 1500,
+    autoplay: true,
+    autoplayTimeout: 1800,
     autoHeight: true,
     responsiveClass: true,
     nav: true,
