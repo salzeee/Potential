@@ -1,0 +1,251 @@
+@media (max-width: 575.98px) {
+
+    /* Navigation  */
+    .nav-item {
+        margin-left: 0px;
+    }
+
+    /* Hero Section */
+    .hero-section {
+        padding-top: 100px;
+        padding-bottom: 150px;
+    }
+
+    .hero-h1 {
+        font-size: 26px;
+    }
+
+    .hero-p {
+        padding: 10px 0px 0 0px;
+        font-size: 16px;
+    }
+
+    .sliders {
+        bottom: -150px;
+    }
+
+     /* About Section */
+     .about {
+         padding-top: 200px;
+     }
+
+      .abt-p1 {
+          padding-right: 0px;
+          padding-top: 10px;
+      }
+      .arrow-wrapper {
+          margin: 0 auto;
+      }
+      .card-left {
+          transform: rotate(0deg);
+      }
+      .card-right {
+          transform: rotate(0deg);
+      }
+      .abt-card {
+          border-radius: 10px;
+          background: #FFF;
+          height: 200px;
+          width: 200px;
+         
+      }
+
+      /* Comparison Section */
+      .comparison {
+          padding-top: 50px;
+      }
+      .services {
+          padding-top: 50px;
+      }
+
+      /* portfolio */
+      .p-h2 {
+          padding-top: 150px;
+      }
+      /* business */
+      .business {
+          padding-top: 50px;
+      }
+
+      /* team */
+      .lineLeft {
+          width: 100px;
+          height: 60px;
+      }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* Navigation  */
+    .nav-item {
+        margin-left: 0px;
+    }
+
+    /* Hero Section */
+    .hero-section {
+        padding-top: 100px;
+        padding-bottom: 150px;
+    }
+
+    .hero-h1 {
+        font-size: 36px;
+    }
+
+    .hero-p {
+        padding: 10px 0px 0 0px;
+        font-size: 16px;
+    }
+
+    .sliders {
+        bottom: -125px;
+    }
+
+    /* About Section */
+    .about {
+        padding-top: 200px;
+    }
+     .abt-p1 {
+         padding-right: 0px;
+         padding-top: 10px;
+     }
+     .arrow-wrapper {
+         margin: 0 auto;
+     }
+     .card-left {
+         transform: rotate(0deg);
+     }
+     .card-right {
+         transform: rotate(0deg);
+     }
+
+     /* portfolio */
+     .p-h2 {
+         padding-top: 150px;
+     }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* Navigation  */
+    .nav-item {
+        margin-left: 0px;
+    }
+
+    /* Hero Section */
+    .hero-section {
+        padding-top: 100px;
+        padding-bottom: 150px;
+    }
+
+    .hero-h1 {
+        font-size: 36px;
+    }
+
+    .hero-p {
+        padding: 10px 80px 0 80px;
+        font-size: 16px;
+    }
+
+    .sliders {
+        bottom: -100px;
+    }
+
+    /* About Section */
+    .about {
+        padding-top: 200px;
+    }
+    .abt-p1 {
+        padding-right: 0px;
+        padding-top: 10px;
+    }
+    .arrow-wrapper {
+        margin: 0 auto;
+    }
+    .card-left {
+        transform: rotate(0deg);
+    }
+    .card-right {
+        transform: rotate(0deg);
+    }
+
+    /* portfolio */
+    .p-h2 {
+        padding-top: 120px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* Hero Section */
+    .hero-section {
+        padding-top: 120px;
+        padding-bottom: 150px;
+    }
+
+    .hero-p {
+        padding: 10px 200px 0 200px;
+        font-size: 16px;
+    }
+
+    .sliders {
+        bottom: -150px;
+    }
+
+    /* About Section */
+    .about {
+        padding-top: 250px;
+    }
+    .abt-p1 {
+        padding-right: 60px;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width:1399px) {
+
+    /* Hero Section */
+    .hero-section {
+        padding-top: 140px;
+        padding-bottom: 200px;
+    }
+
+    .sliders {
+        bottom: -160px;
+    }
+
+    /* About Section */
+    .about {
+        padding-top: 270px;
+    }
+
+    .abt-p1 {
+        padding-right: 80px;
+    }
+}
+
+
+@media (min-width: 1400px) {
+
+    /* Hero Section */
+    .hero-section {
+        padding-top: 150px;
+        /* padding-bottom: 200px; */
+    }
+
+    .hero-h1 {
+        font-size: 42px;
+    }
+
+    .sliders {
+        bottom: -187px;
+    }
+
+
+}
+
+@media (min-width: 1600px) {
+    .sliders {
+        bottom: -207px;
+    }
+}
