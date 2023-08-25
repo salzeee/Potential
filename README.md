@@ -15,3 +15,7 @@ Welcome to the Potential Landing Page! This is a responsive web page designed to
 - CSS (including media queries)
 - JavaScript
 
+
+## Live
+- Live link: https://salzeee.github.io/Potential/
+
