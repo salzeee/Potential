@@ -1,10 +1,10 @@
-AOS.init();
+// AOS.init();
 
 $('.owl-carousel').owlCarousel({
     loop: true,
     margin: 15,
     autoplay: true,
-    autoplayTimeout: 1800,
+    autoplayTimeout: 1500,
     autoHeight: true,
     responsiveClass: true,
     nav: true,

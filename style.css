@@ -1,7 +1,9 @@
 /* Fonts Import */
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@200;300;400;500;600;700&display=swap');
 
-
+/* * {
+    outline: 1px solid #f00 !important;
+} */
 /* Remove default scrollbar styles */
 ::-webkit-scrollbar {
     width: 0.5rem;
@@ -567,9 +569,9 @@ td {
     position: absolute;
     top: 0;
     left: 0;
-}
+} */
 
-.line-right {
+/* .line-right {
     position:relative;
     bottom: 0;
     right: 0;
