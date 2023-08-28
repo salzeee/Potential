@@ -244,8 +244,286 @@
 
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 1700px) {
     .sliders {
         bottom: -300px;
     }
+<<<<<<< Updated upstream
 }
+=======
+
+    .hero-h1 {
+        font-size: 84px;
+    }
+
+    .nav-item {
+        font-size: 20px;
+        font-weight: 500;
+        margin-left: 30px;
+    }
+
+    .hero-p {
+        padding: 10px 100px 0 100px;
+        font-size: 24px;
+        font-family: Open Sans;
+    }
+
+    .hero-btn {
+        
+        font-size: 24px;
+    }
+
+    .c-p {
+        text-align: center;
+        padding-top: 10px;
+        color: #050042;
+        font-family: Lexend;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 500;
+    }
+
+    /* about */
+    .about {
+        padding-top: 400px;
+        background: #FAFAFA;
+    }
+
+    .abt-h2 {
+        color: var(--secondary-color);
+        text-transform: capitalize;
+        color: #050042;
+        font-family: Lexend;
+        font-size: 54px;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    .abt-p1 {
+       color: #3B3E4E;
+       font-family: Open Sans;
+       font-size: 24px;
+       font-style: normal;
+    }
+
+    .abt-a {
+        font-size: 24px;
+    }
+
+    .abt-card {
+        border-radius: 10px;
+        background: #FFF;
+        height: 300px;
+        width: 300px;
+        padding: 10px 15px 0px 15px;
+        margin-bottom: 20px;
+        transition: .2s ease-in-out;
+    }
+
+    .abt-h3 {
+        font-size: 20px;
+        padding-top: 10px;
+    }
+
+    /* Styling for the paragraph within the cards */
+    .abt-p2 {
+        font-size: 18px;
+        font-weight: 400;
+        margin: 0;
+        font-family: Open Sans;
+        line-height: 140%;
+    }
+
+    /* comparison */
+    .comp-h2 {
+        font-family: Lexend;
+        font-size: 54px;
+        font-style: normal;
+    }
+
+    .comp-p1 {
+       font-family: Open Sans;
+       font-size: 24px;
+       font-style: normal;
+    }
+
+    thead {
+        font-family: Lexend;
+        font-size: 30px;
+        font-style: normal;
+    }
+
+    tbody {
+        font-family: Open Sans;
+        font-size: 24px;
+        font-style: normal;
+    }
+
+    .comp-r2-p {
+        font-size: 24px;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /* services */
+
+    .s-item-h3 {
+    
+        font-size: 40px;
+    }
+
+    .s-item-p {
+        font-weight: 300;
+        font-size: 20;
+    }
+
+    /* portfolio */
+
+    .p-h2 {
+       font-size: 54px;
+       font-style: normal;
+    }
+
+    .p-p1 {
+       font-size: 24px;
+       font-style: normal;
+       font-weight: 400;
+    }
+
+    #category {
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 600;
+    }
+
+    .p-left-h3 {
+        font-size: 64px;
+    }
+
+    .p-left-h4 {
+      font-size: 36px;
+    }
+
+    .p-left-p1 {
+        font-size: 24px;
+    
+    }
+
+    /* business */
+
+    .b-h2 {
+       font-size: 54px;
+    }
+
+    .b-p1 {
+       font-size: 24px;
+    }
+
+    /* team */
+
+    .t-h2 {
+        font-size: 54px;
+    }
+
+    .t-p1 {
+        font-size: 24px;
+    }
+
+    .t-p2 {
+      font-size: 32px;
+
+    }
+
+    .t-p3 {
+      font-size: 22px;
+    }
+
+    /* reviews */
+    .r-h2 {
+       font-size: 54px;
+    }
+
+    .r-p1 {
+      font-size: 24px;
+    }
+
+    .r-p2 {
+       font-size: 24px;
+       font-style: normal;
+    }
+    .r-p3 {
+        font-size: 30px;
+        font-style: normal;
+    }
+
+    .r-p4 {
+        font-size: 24px;
+    }
+    .r-p5 {
+        font-size: 24px;
+    }
+
+    .r-h3{
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 600;
+    }
+
+    /* blog */
+
+    .blog {
+        background: #FAFAFA;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+    .b-h3 {
+        font-size: 32px;
+    }
+
+    .b-p2 {
+       font-size: 22px;
+    }
+
+    .b-a {
+        text-decoration: none;
+        font-size: 22px;
+    }
+
+    /* footer */
+    .float-p {
+        font-size: 48px;
+    }
+
+    .floating-contact {
+        height: 250px;
+        width: 1000px;
+    
+    }
+
+    .float-btn {
+       font-size: 24px;
+    }
+
+    .f-p1 {
+        font-family: Open Sans;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400
+    }
+
+    .f-h4 {
+        font-family: Lexend;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+    }
+
+    .brands h4{
+        font-size: 36px;
+    }
+
+    .copy {
+        font-size: 20px;
+    }
+
+}
+>>>>>>> Stashed changes

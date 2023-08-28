@@ -54,8 +54,10 @@ body {
 .navbar-nav {
     margin: 0 auto;
 }
+
 .nav-item {
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 500;
     margin-left: 30px;
 }
 
@@ -95,7 +97,7 @@ body {
 /* Active Dropdown Link Styles */
 .dropdown .nav-link:focus,
 .dropdown .nav-link:active {
-   text-shadow: 0 0 .5px var(--primary-color);
+    text-shadow: 0 0 .5px var(--primary-color);
     color: var(--primary-color) !important;
 }
 
@@ -103,7 +105,7 @@ body {
 .contact-btn {
     background-color: var(--primary-color) !important;
     color: #ffffff !important;
-    font-size: 16px;
+    font-size: 20px;
     padding: 10px 20px 10px 20px;
     font-weight: 500;
 }
@@ -139,7 +141,7 @@ body {
 .hero-h1 {
     /* padding: 0px 275px 0px 275px; */
     font-weight: 300;
-    font-size: 42px;
+    font-size: 84px;
     color: var(--secondary-color);
 }
 
@@ -179,7 +181,7 @@ body {
     /* top: 0; */
     left: 0;
     width: 100%;
-    overflow:hidden;
+    overflow: hidden;
 }
 
 .c-p {
@@ -324,6 +326,7 @@ body {
     font-family: Open Sans;
     font-weight: 400;
 }
+
 .comp-span {
     font-weight: 600;
 }
@@ -341,9 +344,9 @@ body {
     background: #fff;
     border-radius: 25px;
     overflow: hidden;
-   
+
     box-shadow: 0px 3px 5px rgba(139, 85, 255, 0.1);
-   
+
 }
 
 .thead {
@@ -476,6 +479,11 @@ td {
     font-size: 14px;
     font-weight: 400;
 }
+
+.pa {
+    text-decoration: underline;
+}
+
 
 .p-left-h3 {
     font-weight: 600;
@@ -633,7 +641,6 @@ td {
 .r-h2 {
     font-weight: 400;
     font-family: Open Sans;
-    font-weight: 600;
 }
 
 .r-p1 {
@@ -675,13 +682,13 @@ td {
 
 .r-img-wrapper {
     /* margin-left: 100px; */
-   /* display: flex;
+    /* display: flex;
    justify-content:end; */
-   /* Align contents to the end of the container */
-   /* align-items: flex-start; */
-   /* Align items vertically to the start */
-   position: relative;
-   /* Ensure proper positioning for the absolute content */
+    /* Align contents to the end of the container */
+    /* align-items: flex-start; */
+    /* Align items vertically to the start */
+    position: relative;
+    /* Ensure proper positioning for the absolute content */
 }
 
 .r-img-wrapper img {
@@ -689,14 +696,14 @@ td {
     width: 270px; */
     border-radius: 20px;
     object-fit: cover;
-    
+
 }
 
 .r-img-texts {
     position: absolute;
     bottom: 20px;
     left: 10px;
-    
+
 }
 
 /* --- REVIEW SECTION END  */
@@ -752,9 +759,10 @@ footer {
 .f-logo {
     width: 200px;
 }
+
 .floating-contact {
     height: 150px;
-    width: 800px;
+    width: 1000px;
     background-color: var(--primary-color);
     margin: auto;
     border-radius: 20px;
@@ -766,7 +774,7 @@ footer {
     /* Center horizontally */
     transform: translate(-50%, -50%);
     /* Adjust for centering */
-    
+
 }
 
 .f-p1 {
@@ -798,6 +806,3 @@ footer {
     padding: 5px 10px 5px 10px;
     border-radius: 5px;
 }
-
-
-
